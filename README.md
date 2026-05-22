@@ -11,6 +11,14 @@
 This repo contains some projects with outdated dependencies. Fork it to try out
 Dependabot :dependabot:!
 
+## Installation / Getting Started
+
+To get started with this demo:
+
+1. **Fork the repository**: Click the "Fork" button at the top right of this page to create your own copy.
+2. **Clone your fork**: Run `git clone https://github.com/YOUR_USERNAME/demo.git` (replace `YOUR_USERNAME` with your GitHub username).
+3. **Explore the projects**: The repo contains various project directories with outdated dependencies. No local setup is required to use Dependabot — it runs on GitHub.
+
 ### Enabling Security Updates
 
 - In your fork, click the **Settings** tab
